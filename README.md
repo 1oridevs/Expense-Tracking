@@ -44,3 +44,9 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 ## 📧 Contact
  - **GitHub**: @1oridevs
  - **Email**: oridevs.official@gmail.com
+
+
+## ✨ Authors
+**1oridevs**
+
+ ---
